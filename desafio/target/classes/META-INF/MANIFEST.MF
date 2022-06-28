@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Built-By: inspirion15
+Build-Jdk: 17.0.3
+Class-Path: json-simple-1.1.1.jar junit-4.10.jar hamcrest-core-1.1.jar j
+ son-20220320.jar commons-lang3-3.12.0.jar
+Main-Class: com.desafio.Main
+Created-By: Maven Integration for Eclipse
+
